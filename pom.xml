@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>tse.lawrence</groupId>
-    <artifactId>sql-main</artifactId>
+    <artifactId>sql-formatter</artifactId>
     <version>1.0-SNAPSHOT</version>
     
     <properties>
